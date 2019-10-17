@@ -1,0 +1,247 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+action	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function action($type, $url_or_text, $area, $label = null) {$/;"	f	language:PHP
+actionArea	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actionArea($x, $y, $width, $height){$/;"	f	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->actions = array($/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $actions = $action;$/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $actions = array($action); $/;"	v	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions($type){$/;"	f	language:PHP
+actions	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions($type){$/;"	f	language:PHP
+actions_out	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions_out(){$/;"	f	language:PHP
+actions_out	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions_out(){$/;"	f	language:PHP
+actions_set	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions_set($var, $value = null){$/;"	f	language:PHP
+actions_set	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function actions_set($var, $value = null){$/;"	f	language:PHP
+add	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function add($action){$/;"	f	language:PHP
+Audio	/var/www/html/line-bk/LINEBotTinyV2.php	/^     public  function Audio($url, $second = null) {$/;"	f	language:PHP
+baseSize	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $baseSize = array($/;"	v	language:PHP
+ch	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $ch = curl_init($this->host.'\/v2\/bot\/richmenu\/'.$richMenuId.'\/content');$/;"	v	language:PHP
+channelAccessToken	/var/www/html/line-bk/index.php	/^$channelAccessToken = $config['Channel']['Token'];$/;"	v	language:PHP
+channelAccessToken	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $this->channelAccessToken = $data->access_token;$/;"	v	language:PHP
+channelAccessToken	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $this->channelAccessToken = $channelAccessToken;$/;"	v	language:PHP
+channelSecret	/var/www/html/line-bk/index.php	/^$channelSecret      = $config['Channel']['Secret'];$/;"	v	language:PHP
+channelSecret	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $this->channelSecret = $channelSecret;$/;"	v	language:PHP
+client	/var/www/html/line-bk/index.php	/^$client             = new LINEAPI($channelAccessToken, $channelSecret);$/;"	v	language:PHP
+cmd	/var/www/html/line-bk/index.php	/^                    $cmd       = 'sudo docker exec ai-sys bash -c "source \/root\/virenv\/AI_TEST\/bin\/activate && python \/root\/FALdetector\/local_detector.py --input_path ' . $img_path . ' --model_path weights\/local.pth --dest_folder ' . $save_path . ' --no_crop"';$/;"	v	language:PHP
+config	/var/www/html/line-bk/index.php	/^$config             = parse_ini_file("\/home\/me\/config.ini", true);$/;"	v	language:PHP
+content	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $content  = array($/;"	v	language:PHP
+content	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $content  = array($/;"	v	language:PHP
+content	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $content  = array($/;"	v	language:PHP
+content	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $content =  http_build_query($/;"	v	language:PHP
+content	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $content =  http_build_query($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+context	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $context = stream_context_create(array($/;"	v	language:PHP
+createRichMenu	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function createRichMenu($content) {$/;"	f	language:PHP
+data	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $data = json_decode($response);$/;"	v	language:PHP
+data	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $data = json_decode($entityBody, true);$/;"	v	language:PHP
+dataType	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $dataType = "linkUri";$/;"	v	language:PHP
+dataType	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $dataType = "text";$/;"	v	language:PHP
+dataType	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $dataType => $url_or_text,$/;"	v	language:PHP
+deleteRichMenu	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function deleteRichMenu($richMenuId) {$/;"	f	language:PHP
+diff	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $diff = 0;$/;"	v	language:PHP
+downloadMessageObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function downloadMessageObject($msgid, $path = ".\/") {$/;"	f	language:PHP
+downloadRichMenuImage	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function downloadRichMenuImage($richMenuId, $path = ".\/") {$/;"	f	language:PHP
+entityBody	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $entityBody = file_get_contents('php:\/\/input');$/;"	v	language:PHP
+ErrLog	/var/www/html/line-bk/functions.php	/^function ErrLog($text) {$/;"	f	language:PHP
+file	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $file = fopen($path . $richMenuId, "wb");$/;"	v	language:PHP
+file	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $file = fopen($path, "wb");$/;"	v	language:PHP
+Flex	/var/www/html/line-bk/LINEBotTinyV2.php	/^     public  function Flex($altText, $contents) {$/;"	f	language:PHP
+getGroupMemberIds	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getGroupMemberIds($groupId, $continuationToken = null) {$/;"	f	language:PHP
+getGroupMemberInfo	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getGroupMemberInfo($groupId, $userId) {$/;"	f	language:PHP
+getMessageObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getMessageObject($msgid) {$/;"	f	language:PHP
+getProfile	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getProfile($userId) {$/;"	f	language:PHP
+getRichMenu	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRichMenu($richMenuId) {$/;"	f	language:PHP
+getRichMenuIdOfUser	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRichMenuIdOfUser($userId) {$/;"	f	language:PHP
+getRichMenuImage	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRichMenuImage($richMenuId) {$/;"	f	language:PHP
+getRichMenuList	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRichMenuList() {$/;"	f	language:PHP
+getRoomMemberIds	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRoomMemberIds($roomId, $continuationToken = null) {$/;"	f	language:PHP
+getRoomMemberInfo	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function getRoomMemberInfo($roomId, $userId) {$/;"	f	language:PHP
+gid	/var/www/html/line-bk/index.php	/^            $gid     = $event['source']['groupId'];$/;"	v	language:PHP
+handle	/var/www/html/line-bk/functions.php	/^    $handle = fopen('log.txt', 'a');$/;"	v	language:PHP
+hash	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $hash = hash_hmac('sha256', $body, $this->channelSecret, true);$/;"	v	language:PHP
+hash_equals	/var/www/html/line-bk/LINEBotTinyV2.php	/^    function hash_equals($knownString, $userString) {$/;"	f	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+header	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $header = array($/;"	v	language:PHP
+heat	/var/www/html/line-bk/index.php	/^                        $heat      = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $uid . '\/' . $mid . '\/heatmap.jpg';$/;"	v	language:PHP
+host	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $this->host = "https:\/\/api.line.me";$/;"	v	language:PHP
+Image	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function Image($url, $preview_url = null) {$/;"	f	language:PHP
+Imagemap	/var/www/html/line-bk/LINEBotTinyV2.php	/^     public  function Imagemap($baseUrl, $altText, $width, $height, $action) {$/;"	f	language:PHP
+img_path	/var/www/html/line-bk/index.php	/^                    $img_path  = 'images\/' . $uid . '\/' . $mid .'\/origin.jpg';$/;"	v	language:PHP
+issueChannelAccessToken	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function issueChannelAccessToken($channelId, $channelSecret){$/;"	f	language:PHP
+issueUserLinkToken	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function issueUserLinkToken($userId){$/;"	f	language:PHP
+keys	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $keys = array_keys($this->actions);$/;"	v	language:PHP
+keys	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $keys = array_keys($this->actions);$/;"	v	language:PHP
+keys	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $keys = array_keys($this->object);$/;"	v	language:PHP
+keys	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $keys = array_keys($this->object);$/;"	v	language:PHP
+leaveGroup	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function leaveGroup($groupId) {$/;"	f	language:PHP
+leaveRoom	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function leaveRoom($roomId) {$/;"	f	language:PHP
+LINEAPI	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEAPI {$/;"	c	language:PHP
+LINEMSG	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEMSG {$/;"	c	language:PHP
+LINEMSG_FlexContainer	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEMSG_FlexContainer {$/;"	c	language:PHP
+LINEMSG_Imagemap	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEMSG_Imagemap {$/;"	c	language:PHP
+LINEMSG_QuickReply	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEMSG_QuickReply {$/;"	c	language:PHP
+LINEMSG_Template	/var/www/html/line-bk/LINEBotTinyV2.php	/^class LINEMSG_Template {$/;"	c	language:PHP
+linkRichMenuToUser	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function linkRichMenuToUser($userId, $richMenuId) {$/;"	f	language:PHP
+Location	/var/www/html/line-bk/LINEBotTinyV2.php	/^     public  function Location($title, $address, $latitude, $longitude) {$/;"	f	language:PHP
+message	/var/www/html/line-bk/index.php	/^            $message = $event['message'];$/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = $message;$/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = $message;$/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = $message;$/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = array($message); $/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = array($message); $/;"	v	language:PHP
+messages	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $messages = array($message); $/;"	v	language:PHP
+mid	/var/www/html/line-bk/index.php	/^                                $mid = explode(' ', $text)[1];$/;"	v	language:PHP
+mid	/var/www/html/line-bk/index.php	/^                                $mid = explode(' ', $text)[1];$/;"	v	language:PHP
+mid	/var/www/html/line-bk/index.php	/^                    $mid = explode(' ', $text)[1];$/;"	v	language:PHP
+mid	/var/www/html/line-bk/index.php	/^                    $mid = explode(' ', $text)[1];$/;"	v	language:PHP
+mid	/var/www/html/line-bk/index.php	/^            $mid     = $event['message']['id'];$/;"	v	language:PHP
+msgobj	/var/www/html/line-bk/index.php	/^$msgobj             = new LINEMSG();$/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $MsgObject = array($/;"	v	language:PHP
+MsgObject	/var/www/html/line-bk/LINEBotTinyV2.php	/^       $MsgObject = array($/;"	v	language:PHP
+multicast	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function multicast($to, $message) {$/;"	f	language:PHP
+next	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $next = "";$/;"	v	language:PHP
+next	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $next = "";$/;"	v	language:PHP
+next	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $next = "?start=" . $continuationToken;$/;"	v	language:PHP
+next	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $next = "?start=" . $continuationToken;$/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^                $this->object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $object = array($/;"	v	language:PHP
+object	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $this->object = array($/;"	v	language:PHP
+out	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function out(){$/;"	f	language:PHP
+out	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function out(){$/;"	f	language:PHP
+out	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function out(){$/;"	f	language:PHP
+parseEvents	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function parseEvents() {$/;"	f	language:PHP
+path	/var/www/html/line-bk/index.php	/^                    $path = '.\/images\/' . $uid . '\/' . $mid . '\/' . 'origin.jpg';$/;"	v	language:PHP
+preview	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $preview = $preview_url;$/;"	v	language:PHP
+preview	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $preview = $url;$/;"	v	language:PHP
+pushMessage	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function pushMessage($to, $message) {$/;"	f	language:PHP
+QuickReply	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function QuickReply($actions) {$/;"	f	language:PHP
+reply	/var/www/html/line-bk/functions.php	/^function reply($text) {$/;"	f	language:PHP
+replyMessage	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function replyMessage($replyToken, $message) {$/;"	f	language:PHP
+res	/var/www/html/line-bk/index.php	/^                    $res       = [];$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = $this->getMessageObject($msgid);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = $this->getRichMenuImage($richMenuId);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/group\/'.urlencode($groupId).'\/leave', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/group\/'.urlencode($groupId).'\/members\/ids'.urlencode($next), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/group\/'.urlencode($groupId).'\/member\/'.urlencode($userId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/message\/' .urlencode($msgid).'\/content', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/message\/multicast', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/message\/push', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/message\/reply', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/profile\/'.urlencode($userId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/richmenu', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/richmenu\/' .urlencode($richMenuId).'\/content', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/richmenu\/'.urlencode($richMenuId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/richmenu\/'.urlencode($richMenuId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/richmenu\/list', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/room\/'.urlencode($roomId).'\/leave', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/room\/'.urlencode($roomId).'\/members\/ids' .urlencode($next), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/room\/'.urlencode($roomId).'\/member\/'.urlencode($userId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/user\/'.urlencode($userId).'\/linkToken', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/user\/'.urlencode($userId).'\/richmenu', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/user\/'.urlencode($userId).'\/richmenu\/'.urlencode($richMenuId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/bot\/user\/'.urlencode($userId).'\/richmenu\/'.urlencode($richMenuId), false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/oauth\/accessToken', false, $context);$/;"	v	language:PHP
+response	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $response = file_get_contents($this->host.'\/v2\/oauth\/revoke', false, $context);$/;"	v	language:PHP
+revokeChannelAccessToken	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function revokeChannelAccessToken(){$/;"	f	language:PHP
+save_path	/var/www/html/line-bk/index.php	/^                    $save_path = 'images\/' . $uid . '\/' . $mid;$/;"	v	language:PHP
+seconds	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $seconds = $second;$/;"	v	language:PHP
+seconds	/var/www/html/line-bk/LINEBotTinyV2.php	/^            $seconds = 0;$/;"	v	language:PHP
+set	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function set($var, $value = null){$/;"	f	language:PHP
+set	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function set($var, $value = null){$/;"	f	language:PHP
+sign	/var/www/html/line-bk/LINEBotTinyV2.php	/^    private function sign($body) {$/;"	f	language:PHP
+signature	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $signature = base64_encode($hash);$/;"	v	language:PHP
+Sticker	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function Sticker($packageId, $stickerId) {$/;"	f	language:PHP
+strlen	/var/www/html/line-bk/LINEBotTinyV2.php	/^        $strlen = function ($string) {$/;"	v	language:PHP
+Template	/var/www/html/line-bk/LINEBotTinyV2.php	/^     public  function Template($altText, $template) {$/;"	f	language:PHP
+templates	/var/www/html/line-bk/index.php	/^                        $templates = array($/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                                $text = '你個傻逼，看不懂你寫甚麼辣!( ´･ω)';$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                                $text = '測試成功!(ﾉ>ω<)ﾉ';$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                        $text      = 'Detected result!';$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                        $text = '出了些錯誤!請再檢查一次確定圖片裡有包含顯而易見的你，或者請稍後再嘗試看看,或者只是你在太醜系統辨認不出來而已>3';$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                        $text = explode('sakura:', $text)[1];$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                     $text = $message['text'];$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^                    $text = 'Hi, 我是一個剛開發完的逆向修圖機器人,只要丟圖片給我就能有結果囉! 請耐心等待結果,大約需要5-10秒左右的時間喔! 如果有問題歡迎回報 ~';$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^            $text = $event['postback']['data'];$/;"	v	language:PHP
+text	/var/www/html/line-bk/index.php	/^            $text = 'Hi, 謝謝邀我進群組, 但我現在不支援群組功能喔!';$/;"	v	language:PHP
+Text	/var/www/html/line-bk/LINEBotTinyV2.php	/^   public  function Text($msgText) {$/;"	f	language:PHP
+token	/var/www/html/line-bk/index.php	/^            $token   = $event['replyToken'];$/;"	v	language:PHP
+txt	/var/www/html/line-bk/functions.php	/^    $txt = '[ ' . date("Y-m-d H:i:s") . ' ] ' . $text . "\\n";$/;"	v	language:PHP
+uid	/var/www/html/line-bk/index.php	/^            $uid     = $event['source']['userId'];$/;"	v	language:PHP
+unlinkRichMenuFromUser	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function unlinkRichMenuFromUser($userId, $richMenuId) {$/;"	f	language:PHP
+uploadRichMenuImage	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function uploadRichMenuImage($path) {$/;"	f	language:PHP
+uri	/var/www/html/line-bk/index.php	/^                    $uri = 'https:\/\/line.me\/ti\/p\/9b6fTPgT4L';$/;"	v	language:PHP
+url	/var/www/html/line-bk/index.php	/^                                $url = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $uid . '\/' . $mid . '\/heatmap.jpg';$/;"	v	language:PHP
+url	/var/www/html/line-bk/index.php	/^                                $url = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $uid . '\/' . $mid . '\/warped.jpg';$/;"	v	language:PHP
+url	/var/www/html/line-bk/index.php	/^                    $url = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $event['source']['userId'] . '\/' . $mid . '\/heatmap.jpg';$/;"	v	language:PHP
+url	/var/www/html/line-bk/index.php	/^                    $url = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $event['source']['userId'] . '\/' . $mid . '\/warped.jpg';$/;"	v	language:PHP
+Video	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function Video($url, $preview_url) {$/;"	f	language:PHP
+warped	/var/www/html/line-bk/index.php	/^                        $warped    = 'https:\/\/yiarashi.com\/line-bk\/images\/' . $uid . '\/' . $mid . '\/warped.jpg';$/;"	v	language:PHP
+__construct	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function __construct($container){$/;"	f	language:PHP
+__construct	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function __construct($template){$/;"	f	language:PHP
+__construct	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public  function __construct(){$/;"	f	language:PHP
+__construct	/var/www/html/line-bk/LINEBotTinyV2.php	/^    public function __construct($channelAccessToken, $channelSecret) {$/;"	f	language:PHP
